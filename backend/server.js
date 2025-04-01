@@ -14,7 +14,7 @@ admin.initializeApp({
 });
 
 // Plan IDs
-// const [monthly, yearly] = ['price_1QPHGsP8ddUM1m9kPntGvsx7', 'price_1PyCefP8ddUM1m9k6spJiFpg'];
+const [monthly, yearly] = ['price_1QPHGsP8ddUM1m9kPntGvsx7', 'price_1PyCefP8ddUM1m9k6spJiFpg'];
 // const [yearly] = ['price_1PyCefP8ddUM1m9k6spJiFpg'];
 
 // Middleware
